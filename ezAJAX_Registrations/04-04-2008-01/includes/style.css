@@ -1,0 +1,319 @@
+A 			{ color: #0000cc; font-family: Trebuchet MS, verdana, arial, sans-serif; text-decoration: none; font-weight:bold; } 
+A:link		{ color: #0000cc; text-decoration: none; } 
+A:visited	{ color: #0000cc; text-decoration: none; } 
+A:active	{ color: #99CC66;  } 
+A:hover		{ color: #99CC66;  } 
+
+h1 {
+	font-family: Trebuchet MS, verdana,arial, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+	margin: 0;
+	color: #000;
+}
+#content {
+	float: left;
+	border-right:1px dotted #999;
+	margin-right:15px;
+	width: 700px;
+	margin-top: 15px;
+}
+
+#menu {
+	margin-left: 5px;
+	margin-top: 15px;
+}
+
+#blogText {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+#banner {
+	font-family: Trebuchet MS, verdana,arial, sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	background-color: #0000cc;
+	padding: 5px;
+}
+
+.bannerStats {
+	font-family: Trebuchet MS, verdana,arial, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: white;
+	background-color: #0000cc;
+	padding: 5px;
+}
+
+.bannerTable {
+	background-color: #0000cc;
+}
+
+.body, td {
+	font-family: Trebuchet MS, verdana, arial, sans-serif; 
+	font-size: 10px; 
+	color: #000000; 
+	margin-left: 0px;
+}
+
+input, select, textarea {
+	font-family: Trebuchet MS, verdana, arial, sans-serif; 
+	font-size: 11px; 
+	color: #000000; 
+}
+
+.byline {
+	font-family: Trebuchet MS, verdana, arial, sans-serif; 
+	color: #000;
+	line-height: 135%;
+	margin: 0;
+	padding: 0 0 8px 0;
+}
+
+.menuTitle {
+	font-family: verdana, arial, sans-serif; 
+	font-size: 10px;
+	background-color: #66ccff;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .2em;
+	padding: 5px;
+}
+
+.header, .header a {
+	font-family: verdana, arial, sans-serif; 
+	font-size: 11px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.calendar_table, .calendar_table a {
+	font-family: verdana, arial, sans-serif; 
+	font-size: 10px;
+	text-align: center;
+	padding: 2px;
+	line-height: 14px;
+}
+
+.calendar_today {
+	background-color: yellow;
+}
+
+.menuBody {
+	font-family: verdana, arial, sans-serif; 
+	font-size: 10px;
+	text-align: left;
+	padding: 2px;
+	line-height: 14px;
+}
+
+.menuBody A {
+	font-family: verdana, arial, sans-serif; 
+	font-size: 10px;
+}
+
+.date {
+	font-family: Trebuchet MS, verdana, arial, sans-serif; 
+	font-size: 11px; 
+	color: #666; 
+	border:1px solid #999;
+	padding:5px;
+	margin-bottom:10px;
+	font-weight:normal;
+	width: 600px;
+}
+
+.blogHeader, .trackbackHeader, .commentHeader {
+	font-family: Trebuchet MS, verdana, arial, sans-serif; 
+	font-size: 11px; 
+	color: #666; 
+	border:1px solid #999;
+	padding:5px;
+	margin-bottom:10px;
+	font-weight:normal;
+}
+
+.rightMenu {
+	border:1px solid #999;
+}
+
+.rightMenuWide {
+/*	border:1px solid #999; */
+	width: 195px;
+	overflow-x: scroll;
+}
+
+.code {
+	font-family: courier;
+	font-size: 11px;
+	color: black;
+	border: solid thin #0000cc;
+	background-color: #ffffcc;
+	overflow: auto;
+	max-height: 600px;
+}
+
+.codeCopyright {
+	font-family: courier;
+	font-size: 9px;
+	color: black;
+	background-color: #ffffcc;
+}
+
+.code600 {
+	font-family: courier;
+	font-size: 11px;
+	color: black;
+	border: solid thin #0000cc;
+	background-color: #ffffcc;
+	overflow: auto;
+	height: 600px;
+	max-height: 600px;
+}
+
+.codePrint {
+	font-family: courier;
+	font-size: 11px;
+	color: black;
+	border: solid thin #0000cc;
+	background-color: #ffffcc;
+}
+
+.normalPrompt {
+	font-size: 10px;
+	color: black;
+}
+
+.normalBoldPrompt {
+	font-size: 10px;
+	font-weight: bold;
+	color: black;
+}
+
+.normalBoldBluePrompt {
+	font-size: 10px;
+	font-weight: bold;
+	color: blue;
+}
+
+.normalBluePrompt {
+	font-size: 11px;
+	color: blue;
+}
+
+.normalBoldGreenPrompt {
+	font-size: 10px;
+	font-weight: bold;
+	color: green;
+}
+
+.normalBoldGreenTmPrompt {
+	font-size: 8px;
+	font-weight: bold;
+	color: green;
+}
+
+.buttonClass {
+	font-size: 10px;
+	font-weight: bold;
+	color: black;
+}
+
+.buttonClassFF {
+	font-size: 0.8em;
+	font-weight: bold;
+	color: black;
+}
+
+.loginButtonClass {
+	font-size: 9px;
+	font-weight: bold;
+	color: black;
+	width: 50px;
+}
+
+.forgotPasswordButtonClass {
+	font-size: 9px;
+	font-weight: bold;
+	color: black;
+	width: 100px;
+}
+
+.premiumButtonClass {
+	font-size: 9px;
+	font-weight: bold;
+	color: black;
+	width: 90px;
+}
+
+.registerButtonClass {
+	font-size: 9px;
+	font-weight: bold;
+	color: black;
+	width: 65px;
+}
+
+.registerButtonClass2 {
+	font-size: 9px;
+	font-weight: bold;
+	color: black;
+	width: 110px;
+}
+
+.registerButtonClass3 {
+	font-size: 9px;
+	font-weight: bold;
+	color: black;
+	width: 88px;
+}
+
+.redBoldPrompt {
+	font-size: 9px;
+	font-weight: bold;
+	color: red;
+}
+
+.errorBoldPrompt {
+	font-size: 10px;
+	font-weight: bold;
+	color: red;
+}
+
+.redBlogArticleAccessBoldPrompt {
+	font-size: 10px;
+	font-weight: bold;
+	color: red;
+	line-height: 1.1em;
+}
+
+.yellowBlogArticleAccessBoldPrompt {
+	font-size: 10px;
+	font-weight: bold;
+	color: yellow;
+	line-height: 1.1em;
+}
+
+.onholdStatusBoldClass {
+	font-size: 10px;
+	color: green;
+	font-weight: bold;
+}
+
+.onholdStatusSmallBoldClass {
+	font-size: 8px;
+	color: green;
+	font-weight: bold;
+}
+
+.codeSmaller {
+	font-family: courier;
+	font-size: 8px;
+	color: black;
+	border: solid thin #0000cc;
+	background-color: #ffffcc;
+	overflow: auto;
+	max-height: 200px;
+}
+
